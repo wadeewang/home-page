@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiDaXing-web&layout=compact&theme=tokyonight" />
 
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=paiDaXing-web&show_icons=true&theme=tokyonight" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=W-HanYu&show_icons=true&theme=tokyonight" />
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/W-HanYu/W-HanYu/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hanyuwang087@gmail.com)
@@ -21,10 +21,9 @@ Welcome to my Github page! I am Ustinian and I am a FE engineer and currently  s
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I am currently studying at Huazhong University of Science and Technology;
-- 🌱 I’m currently learning nodejs and ; 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
+- 🌱 I’m currently learning nodejs and Applets; 
 - 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to discuss;
 - 📫 How to reach me: 1453300745@qq.com;
 
 #### :computer: Programming languages and tools: 
