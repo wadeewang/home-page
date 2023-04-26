@@ -21,13 +21,12 @@ Welcome to my Github page! I am Ustinian and I am a FE engineer and currently  s
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
+- 👨🏽‍💻 I am currently studying at Huazhong University of Science and Technology;
 - 🌱 I’m currently learning nodejs and ; 
 - 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
+- 📫 How to reach me: 1453300745@qq.com;
 
 #### :computer: Programming languages and tools: 
 <p>
