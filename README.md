@@ -1,12 +1,11 @@
-### Hi there 👋
-
 <!--
 **W-HanYu/W-HanYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-### Hi there 👋 
-### This is Abraham!
 
+<!-- Talking about you -->
+### Hi there 👋 
+### This is Ustinian!
 
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiDaXing-web&layout=compact&theme=tokyonight" />
 
@@ -20,11 +19,10 @@ Welcome to my Github page! I am Ustinian and I am a FE engineer and currently  s
 
 <!-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" /> -->
 
-<!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
+- 🌱 I’m currently learning nodejs and ; 
 - 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
