@@ -21,8 +21,8 @@ Welcome to my Github page! I am Ustinian and I am a FE engineer and currently  s
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I am currently studying at Huazhong University of Science and Technology;
-- 🌱 I’m currently learning nodejs and Applets; 
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 🌱 I am currently a front-end engineer; 
+- 🤔 I’m currently learning react、vue ang node;
 - 💬 Ask me about anything, I am happy to discuss;
 - 📫 How to reach me: 1453300745@qq.com;
 
