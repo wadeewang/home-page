@@ -24,7 +24,7 @@ Welcome to my Github page! I am Ustinian and I am a FE engineer and currently  s
 - 🌱 I am currently a front-end engineer; 
 - 🤔 I’m currently learning react、vue ang node;
 - 💬 Ask me about anything, I am happy to discuss;
-- 📫 How to reach me: 1453300745@qq.com;
+- 📫 How to reach me: wangtao1629626@163.com;
 
 #### :computer: Programming languages and tools: 
 <p>
