@@ -22,7 +22,7 @@ Welcome to my Github page! I am Ustinian and I am a FE engineer and currently  s
 
 - 👨🏽‍💻 I am currently studying at Huazhong University of Science and Technology;
 - 🌱 I am currently a front-end engineer; 
-- 🤔 I’m currently learning react、vue ang node;
+- 🤔 I’m currently learning nestjs、redis and mysql;
 - 💬 Ask me about anything, I am happy to discuss;
 - 📫 How to reach me: wangtao1629626@163.com;
 
