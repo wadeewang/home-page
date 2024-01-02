@@ -29,21 +29,14 @@ Welcome to my Github page! I am Ustinian and I am a FE engineer and currently  s
 #### :computer: Programming languages and tools: 
 <p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-4e4e4e?logo=javascript&logoColor=#F7DF1E)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61dafb)
-![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white)
-	
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+📊 **Weekly development breakdown**
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   9 hrs 34 mins   ███████████████▓░░░░░░░░░   62.97 % 
+JavaScript   5 hrs 13 mins   ████████▓░░░░░░░░░░░░░░░░   34.36 % 
+SCSS         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+```
+<!--END_SECTION:waka-->
 
