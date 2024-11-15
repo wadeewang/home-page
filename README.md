@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=W-HanYu&show_icons=true&theme=tokyonight" />
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/W-HanYu/W-HanYu/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/wadeewang/home-page/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hanyuwang087@gmail.com)
 
 Welcome to my Github page! I am Ustinian and I am a FE engineer and currently  studying at the university of HUST!  
@@ -53,8 +53,8 @@ Welcome to my Github page! I am Ustinian and I am a FE engineer and currently  s
 
  <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=W-HanYu&theme=github&height=250" />
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=wadeewang&theme=github&height=250" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=W-HanYu&bg_color=F6F8FA&color=708090&line=24292e&point=24292e&area=true&hide_border=true&height=250" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=W-HanYu&bg_color=F6F8FA&color=708090&line=24292e&point=24292e&area=true&hide_border=true&height=250" alt="荣顶的 github 活跃图" />
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=wadeewang&bg_color=F6F8FA&color=708090&line=24292e&point=24292e&area=true&hide_border=true&height=250" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wadeewang&bg_color=F6F8FA&color=708090&line=24292e&point=24292e&area=true&hide_border=true&height=250" alt="荣顶的 github 活跃图" />
   </picture>
