@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 ### Hi there 👋 
 ### 是 wadee！
 
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-HanYu&layout=compact&theme=tokyonight" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadeewang&layout=compact&theme=tokyonight" />
 
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=W-HanYu&show_icons=true&theme=tokyonight" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=wadeewang&show_icons=true&theme=tokyonight" />
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/wadeewang/home-page/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hanyuwang087@gmail.com)
