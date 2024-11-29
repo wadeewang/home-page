@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 Welcome to my Github page! I am wadee and I am a FE engineer and currently  working at Tencent！ 
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+
 ---
+
 - Enjoy programming and build awesome stuff.
 - Silence makes big money.
 - Life's most persistent and urgent question is, "What are you doing for others?"
