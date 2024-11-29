@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 <!-- Talking about you -->
 ### Hi there 👋 
-### This is Ustinian!
+### 是 wadee！
 
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-HanYu&layout=compact&theme=tokyonight" />
 
@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/wadeewang/home-page/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hanyuwang087@gmail.com)
 
-Welcome to my Github page! I am Ustinian and I am a FE engineer and currently  studying at the university of HUST!  
+Welcome to my Github page! I am wadee and I am a FE engineer and currently  working at Tencent！ 
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I am currently studying at Huazhong University of Science and Technology;
-- 🌱 I am currently a front-end engineer; 
-- 🤔 I’m currently learning nestjs、redis and mysql;
-- 💬 Ask me about anything, I am happy to discuss;
-- 📫 How to reach me: wangtao1629626@163.com;
+- Enjoy programming and build awesome stuff.
+- Silence makes big money.
+- Life's most persistent and urgent question is, "What are you doing for others?"
+- 以自己想要的方式过完一生，就是成功。
 
 
 
