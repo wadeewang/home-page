@@ -23,7 +23,7 @@ Welcome to my Github page! I am wadee and I am a FE engineer and currently  work
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=wadeewang&show_icons=true&theme=tokyonight" />
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="left" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 #### :computer: Programming languages and tools: 
 <p>
