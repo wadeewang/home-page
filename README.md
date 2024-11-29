@@ -6,11 +6,7 @@ Here are some ideas to get you started:
 <!-- Talking about you -->
 ### Hi there 👋 
 ### 是 wadee！
-
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadeewang&layout=compact&theme=tokyonight" />
-
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=wadeewang&show_icons=true&theme=tokyonight" />
-
+---
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/wadeewang/home-page/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hanyuwang087@gmail.com)
 
@@ -26,8 +22,9 @@ Welcome to my Github page! I am wadee and I am a FE engineer and currently  work
 - Life's most persistent and urgent question is, "What are you doing for others?"
 - 以自己想要的方式过完一生，就是成功。
 
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadeewang&layout=compact&theme=tokyonight" />
 
-
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=wadeewang&show_icons=true&theme=tokyonight" />
 
 #### :computer: Programming languages and tools: 
 <p>
@@ -39,6 +36,17 @@ Welcome to my Github page! I am wadee and I am a FE engineer and currently  work
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61dafb)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?logo=vue.js&logoColor=white)
+
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
  <picture>
     <source media="(prefers-color-scheme: dark)"
