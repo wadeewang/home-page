@@ -19,9 +19,9 @@ Welcome to my Github page! I am wadee and I am a FE engineer and currently  work
 - Life's most persistent and urgent question is, "What are you doing for others?"
 - 以自己想要的方式过完一生，就是成功。
 
-<img width="50%" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" />
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadeewang&layout=compact&theme=tokyonight" /> 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=wadeewang&show_icons=true&theme=tokyonight" />
+<img width="40%" align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" />
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadeewang&layout=compact&theme=tokyonight" /> 
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=wadeewang&show_icons=true&theme=tokyonight" />
 
 
  <picture>
