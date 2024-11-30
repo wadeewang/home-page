@@ -20,7 +20,7 @@ Welcome to my Github page! I am wadee and I am a FE engineer and currently  work
 - 以自己想要的方式过完一生，就是成功。
 
 
-	<div style="display: 'flex'">
+	<div style="display: flex; flex-wrap: no-wrap;">
 		<span>
 			<img width="1000%" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" />
  		</span>
