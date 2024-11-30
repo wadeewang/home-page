@@ -24,7 +24,7 @@ Welcome to my Github page! I am wadee and I am a FE engineer and currently  work
    		display: flex;
 	">
 		<span>
-			<img width="1000%" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" />
+			<img width="100%" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" />
  		</span>
 		<span>
 			<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadeewang&layout=compact&theme=tokyonight" /> 
