@@ -1,5 +1,5 @@
 <!--
-**W-HanYu/W-HanYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wadeewang/wadeewang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 ### 是 wadee！
 ---
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/wadeewang/home-page/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hanyuwang087@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wadeewang@163.com)
 
 Welcome to my Github page! I am wadee and I am a FE engineer and currently  working at Tencent！ 
 
@@ -19,11 +19,15 @@ Welcome to my Github page! I am wadee and I am a FE engineer and currently  work
 - Life's most persistent and urgent question is, "What are you doing for others?"
 - 以自己想要的方式过完一生，就是成功。
 
+<span>
+	<img width="50%" align="left" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" />
+</span>
+
+<span>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadeewang&layout=compact&theme=tokyonight" />
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=wadeewang&show_icons=true&theme=tokyonight" />
-
-<img align="left" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+</span>
 
  <picture>
     <source media="(prefers-color-scheme: dark)"
